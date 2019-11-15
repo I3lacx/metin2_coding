@@ -19,6 +19,9 @@ Metin2 ist mit Python geschrieben, basiert aber auf älteren 2.2.1 Version, da e
 ### Python
 [Start scripts for M2 with m2bob](https://m2bob-forum.net/index.php/Thread/30449-How-To-M2bob-Python)
 
+Sketchy and not sure but will leave link here anyway:
+[Use compiled python file](https://metin2.dev/board/index.php?/topic/575-howto-use-compiled-python-files/)
+
 [Python Basics Mt2](https://www.elitepvpers.com/forum/metin2-pserver-guides-strategies/2194722-howto-learn-python-metin2-starting-up-your-first-bot.html)
 
 
